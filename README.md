@@ -19,7 +19,7 @@
 > 4.	可按個人感覺調整頭部方向或下巴位置, 完成後再用另一邊重覆相同動作
  
 ### 介面設計
-![](https://i.imgur.com/6Lt20Jo.png)
+<img style="width:500px" src="https://i.imgur.com/6Lt20Jo.png" />
 
 ### 流程圖
 <img style="width:500px" src="https://i.imgur.com/ghEWPiG.png" />
@@ -38,8 +38,7 @@
 2.	通過中心對應的像素分割關鍵點回歸輸出該人體的初始關鍵點集。
 3.	將熱點圖的每個像素點都乘以與相應特徵點距離成反比的權重，確保不會收到人體以外的關鍵點。
 4.	通過搜尋每個特徵點通道中最大熱圖值的座標來選擇特徵點預測的結果，並將局部 2D 偏移量預測加回座標得出更清精確的結果。
-![](https://i.imgur.com/OluROxp.png)
-
+<img style="width:500px" src="https://i.imgur.com/OluROxp.png" />
 
 #### 訓練過程:
 資料集我們以網路上的影片與組員拍攝的動作建立並區分訓練四個動作分別為
@@ -55,14 +54,12 @@
  	 
 1. 將採集訓練集與測試的特徵點轉為`.csv`格是儲存。
 2. 資料中共有 17 個特徵點，每個特徵點紀錄score與(x,y)的偏移量。
-![](https://i.imgur.com/y783GKb.png)
-
 3. 將姿態特徵移到中心，並攤平座標訓練特特徵向量建立姿態分類器。
-![](https://i.imgur.com/BsClSKO.png)
-![](https://i.imgur.com/vrycIfk.png)
+   - <img style="width:350px" src="https://i.imgur.com/BsClSKO.png" />
+   - <img style="width:350px" src="https://i.imgur.com/vrycIfk.png" />
 
 4. 訓練結果與混淆矩陣。
-![](https://i.imgur.com/y6y38Ut.png)
+   - <img style="width:350px" src="https://i.imgur.com/y6y38Ut.png" />
 
 5. 將模型轉換為`tflite`格式縮小大小。
 [訓練程式](https://colab.research.google.com/drive/10wGaJf1ts6ldb85SSfY6AK8PFCSEx1zF?usp=sharing)[^6]
