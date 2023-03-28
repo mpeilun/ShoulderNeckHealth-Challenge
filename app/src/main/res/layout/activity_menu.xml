@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C3C3C3"
+    tools:context=".MenuActivity">
+
+  <TextView
+      android:id="@+id/textView"
+      android:layout_width="0dp"
+      android:layout_height="50dp"
+      android:background="#E3F2FD"
+      android:gravity="center_vertical"
+      android:paddingLeft="15dp"
+      android:text="保護肩頸大作戰"
+      android:textAppearance="@style/TextAppearance.AppCompat.Large"
+      android:textSize="24sp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      tools:text="保護肩頸大作戰" />
+
+  <ImageButton
+      android:id="@+id/button1"
+      android:layout_width="356dp"
+      android:layout_height="206dp"
+      android:layout_marginTop="50dp"
+      android:backgroundTint="#00FFFFFF"
+      android:scaleType="centerInside"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/textView"
+      app:srcCompat="@drawable/img1" />
+
+  <ImageButton
+      android:id="@+id/button2"
+      android:layout_width="356dp"
+      android:layout_height="206dp"
+      android:layout_marginTop="50dp"
+      android:backgroundTint="#00FFFFFF"
+      android:scaleType="centerInside"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/button1"
+      app:srcCompat="@drawable/img2" />
+</androidx.constraintlayout.widget.ConstraintLayout>
