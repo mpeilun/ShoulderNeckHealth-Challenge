@@ -22,7 +22,8 @@
 ![](https://i.imgur.com/6Lt20Jo.png)
 
 ### 流程圖
-![](https://i.imgur.com/1wmyo8G.png)
+<img style="width:500px" src="https://i.imgur.com/ghEWPiG.png" />
+
 > 使用訓練好的姿態辨識模型，辨識四種姿態，使用者選擇想要進行的動作後，開始倒數並撥放音樂，須維持動作30秒，當動作不正確時，倒數與音樂將暫停，提示使用者調整姿態。
 
 ## 可行性
