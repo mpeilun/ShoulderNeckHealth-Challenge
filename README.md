@@ -19,7 +19,7 @@
 > 4.	可按個人感覺調整頭部方向或下巴位置, 完成後再用另一邊重覆相同動作
  
 ### 介面設計
-![](https://i.imgur.com/fPpHGb1.png)
+![](https://i.imgur.com/6Lt20Jo.png)
 
 ### 流程圖
 ![](https://i.imgur.com/1wmyo8G.png)
