@@ -1,7 +1,7 @@
 # 保護肩頸大作戰
 > Shoulder & Neck Health Challenge
 
-<img style="max-width:100px;" src="https://i.imgur.com/IIcY60W.png" />
+<img style="width:50px" src="https://i.imgur.com/IIcY60W.png" />
 
 ## 功能預覽
 
