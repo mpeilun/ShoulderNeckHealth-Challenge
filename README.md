@@ -4,7 +4,7 @@
 > Shoulder & Neck Health Challenge
 
 ## 介紹影片
-[![DEMO](https://i.imgur.com/cvYkDEl.png)](http://www.youtube.com/watch?v=CbMVVM_KWxY "點擊觀看！")
+[![DEMO](https://i.imgur.com/cvYkDEl.png | height=250)](http://www.youtube.com/watch?v=CbMVVM_KWxY "點擊觀看！")
 
 ## 動機
 現今社會普遍存在許多低頭族的族群，甚至上班族也會有肩頸問題。因此，我們開發了一款應用程式，能夠提醒高危險族群的人們，在工作或久坐一段時間後，跟著APP運動肩頸，緩解肩頸的肌肉疲勞，養成伸展肩頸肌肉的好習慣，有效緩解肩頸痠痛。 研究顯示[^1][^2]，靜坐姿勢對肩頸造成壓力，且長時間保持同一姿勢最常引起疼痛。因此，許多高危險工作族群包括長時間伏案的上班族、使用電腦螢幕與繪圖設計等相關工作，最容易引起頸部痠痛。
