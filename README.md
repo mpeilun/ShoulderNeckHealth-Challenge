@@ -73,7 +73,8 @@
 
 ## License
 
-Shoulder & Neck Health Challenge 使用 MIT License 開放原始碼。 
+Shoulder & Neck Health Challenge 使用 MIT License 開放原始碼。
+
 Neck icons created by Freepik - [Flaticon](https://media.flaticon.com/license/license.pdf)
 
 [^1]:詹佑群, 作者, 「[手機使用者在不同姿勢下之肩頸負荷分析](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=NNcOVO/record?r1=2&h1=0)」, 碩士論文, 明志科技大學工業工程與管理系碩士班, 明志科技大學, 2022. 引見於: 2022年12月11日. [線上].
