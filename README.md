@@ -71,6 +71,11 @@
 
 綜上所述，我們相信本作品具有獨特性，可與市面上的產品產生差異，並幫助更多人保持良好的肩頸健康。
 
+## License
+
+Shoulder & Neck Health Challenge 使用 MIT License 開放原始碼。 
+Neck icons created by Freepik - [Flaticon](https://media.flaticon.com/license/license.pdf)
+
 [^1]:詹佑群, 作者, 「[手機使用者在不同姿勢下之肩頸負荷分析](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=NNcOVO/record?r1=2&h1=0)」, 碩士論文, 明志科技大學工業工程與管理系碩士班, 明志科技大學, 2022. 引見於: 2022年12月11日. [線上].
 [^2]:林新醫院, 作者, 「[頸部酸痛的預防與保健](http://www.lshosp.com.tw/衛教園地/復健科/頸部酸痛的預防與保健/)」. (引見於 2022年12月11日).
 [^3]:Heho健康, 作者, 「[低頭族必備的肩頸伸展操 | Heho健康](https://today.line.me/tw/v2/article/9ZeYXr)」, LINE TODAY.  (引見於 2022年12月11日).
